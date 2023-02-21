@@ -2,6 +2,10 @@
 
 https://expressjs.com/en/starter/generator.html
 
+Debug & Start
+
+yarn start
+
 On MacOS or Linux, run the app with this command:
 
 $ DEBUG=myapp:* npm start
